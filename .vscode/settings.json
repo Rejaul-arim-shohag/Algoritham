@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".env.template": "dotenv",
+        "vector": "cpp",
+        "execution": "cpp"
+    }
+}
